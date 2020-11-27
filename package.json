@@ -1,6 +1,6 @@
 {
   "name": "@alexsopinka/draft-js-focus-plugin",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Focus Plugin for DraftJS",
   "author": {
     "name": "Benjamin Kniffler",
